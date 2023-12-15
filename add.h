@@ -1,6 +1,6 @@
-#ifndef HEADER_FILE_NAME_H
-#define HEADER_FILE_NAME_H
+#ifndef ADD_H
+#define ADD_H
 
 int add(int a, int b);
 
-#endif // HEADER_FILE_NAME_H
+#endif // ADD_H
