@@ -13,7 +13,7 @@
 - How do you create a new directory in Linux?
  
  1. ls.
- 2. mkdir.
+ 2. mkdir name.
 
 
 
