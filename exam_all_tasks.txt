@@ -23,7 +23,7 @@
 - Give an example of a common header file in C and its purpose.
 
 1. Purpose of #include in C is to include libraries .
-2.files - (add.h and add.c).
+2.files - (add.h and add.c). or include <stdio.h>
 
 
 
