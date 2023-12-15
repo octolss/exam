@@ -1,0 +1,32 @@
+-Task 1 **Git Basics (5%)**
+- What is the purpose of the `git commit` command?
+- How can you check the status of your files in a Git repository?
+
+1. Purpose of git commit cammand is to upload changes or commit cahnges with.
+2. Use the command git status.
+
+-Task 2 **Linux Basics (5%)**
+- What command is used to list files in a directory in Linux?
+- How do you create a new directory in Linux?
+ 
+ 1. ls -la.
+ 2. mkdir.
+
+ Task 3 **Header Files in C (10%)**
+- What is the purpose of `#include` in C?
+- Give an example of a common header file in C and its purpose.
+
+1. Purpose of #include in C is to include libraries .
+2.file name - (add.h and add.c).
+
+ Task 4 **General C Programming (25%)**
+- Describe the difference between local and global variables in C.
+- Explain the purpose of a function prototype in C.
+- How do you read input from the user in C?
+- What is a segmentation fault in C and what are common causes?
+
+1. Local variables can be only used inside of a funciot they've been created in, but global variables cna be used outside of it.
+2. Function prototype is declaring a function before using it like in the .h files.
+3. Using scanf method.
+4. Segmentation fault is an error that occurse when you are trying to acces the memory part you can not acces.
+
